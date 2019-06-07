@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="rGg-Bi-gzY" customClass="AboutData" customModule="avtixclient_ios" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="1186"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Access Tasks" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xk2-3f-Yf0">
+                    <rect key="frame" x="16" y="36" width="382" height="26.5"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6dW-GZ-jBc">
+                    <rect key="frame" x="16" y="70.5" width="382" height="76.5"/>
+                    <string key="text">Enhance any eticket systems by providing one touch validation. Perfect for events, theatre, busses and coaches...you name it! using secure in-app payments from leading payment providers.</string>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Charity and Education projects at no extra cost" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WHu-Hi-kck">
+                    <rect key="frame" x="16" y="179" width="382" height="53"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Organise your charity or education event and keep all proceeds for your cause." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ARx-hU-ldz">
+                    <rect key="frame" x="16" y="240" width="382" height="38.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Seamless VIP and guestlist control" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CoN-Nh-xvT">
+                    <rect key="frame" x="16" y="310.5" width="382" height="26.5"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G48-bs-yrY">
+                    <rect key="frame" x="16" y="345" width="382" height="134"/>
+                    <string key="text">Use AVTIX to control your guestlist with greater granularity. Enhance the experience for you or your guests, greater control of ticket sales for an event and venue, remain fully informed on the ticket sales for your event. Become the most professional venue by providing your customers with ease of acess to your event. No need to tick names off a paper list.</string>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Organize your event anytime and anywhere" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8lW-ea-d8g">
+                    <rect key="frame" x="16" y="511" width="382" height="53"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="us1-he-0Z0">
+                    <rect key="frame" x="16" y="572" width="382" height="57.5"/>
+                    <string key="text">Easily integrated into your existing business infrastructure. Give your customers instat access to your products. Functions great on all smartphones.</string>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_subtitle_transparent" translatesAutoresizingMaskIntoConstraints="NO" id="gNE-DZ-WhJ" userLabel="LOGO">
+                    <rect key="frame" x="79" y="661.5" width="256" height="100"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="100" id="6cL-z8-igj"/>
+                        <constraint firstAttribute="width" constant="256" id="7un-iM-07u"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="WHu-Hi-kck" firstAttribute="top" secondItem="6dW-GZ-jBc" secondAttribute="bottom" constant="32" id="2x2-Us-oQk"/>
+                <constraint firstItem="CoN-Nh-xvT" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="4Kb-kQ-8xa"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="6dW-GZ-jBc" secondAttribute="trailing" constant="16" id="8R5-20-rFB"/>
+                <constraint firstItem="8lW-ea-d8g" firstAttribute="top" secondItem="G48-bs-yrY" secondAttribute="bottom" constant="32" id="A73-v9-TEY"/>
+                <constraint firstItem="6dW-GZ-jBc" firstAttribute="top" secondItem="Xk2-3f-Yf0" secondAttribute="bottom" constant="8" id="FSM-DV-Dgx"/>
+                <constraint firstItem="Xk2-3f-Yf0" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="Juy-o2-Q9q"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="CoN-Nh-xvT" secondAttribute="trailing" constant="16" id="LVr-sJ-sJ4"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="G48-bs-yrY" secondAttribute="trailing" constant="16" id="M3L-YN-9zk"/>
+                <constraint firstItem="gNE-DZ-WhJ" firstAttribute="top" secondItem="us1-he-0Z0" secondAttribute="bottom" constant="32" id="TvI-pE-zmw"/>
+                <constraint firstItem="gNE-DZ-WhJ" firstAttribute="centerX" secondItem="rGg-Bi-gzY" secondAttribute="centerX" id="VQY-L8-wJd"/>
+                <constraint firstItem="WHu-Hi-kck" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="W1i-4v-oyX"/>
+                <constraint firstItem="G48-bs-yrY" firstAttribute="top" secondItem="CoN-Nh-xvT" secondAttribute="bottom" constant="8" id="XCI-TH-CsG"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="8lW-ea-d8g" secondAttribute="trailing" constant="16" id="Y4e-r7-pqD"/>
+                <constraint firstItem="ARx-hU-ldz" firstAttribute="top" secondItem="WHu-Hi-kck" secondAttribute="bottom" constant="8" id="Zsv-eU-MRS"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="Xk2-3f-Yf0" secondAttribute="trailing" constant="16" id="aiQ-bA-uRq"/>
+                <constraint firstItem="Xk2-3f-Yf0" firstAttribute="top" secondItem="IPV-a3-hgF" secondAttribute="top" constant="16" id="d92-F9-Z6E"/>
+                <constraint firstItem="6dW-GZ-jBc" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="dYF-1M-Yzg"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="ARx-hU-ldz" secondAttribute="trailing" constant="16" id="daE-cB-Gbv"/>
+                <constraint firstItem="ARx-hU-ldz" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="eWk-6I-a5F"/>
+                <constraint firstItem="8lW-ea-d8g" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="ghH-bp-5JK"/>
+                <constraint firstItem="us1-he-0Z0" firstAttribute="leading" secondItem="IPV-a3-hgF" secondAttribute="leading" constant="16" id="joi-dc-1oi"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="WHu-Hi-kck" secondAttribute="trailing" constant="16" id="lO0-xJ-tVe"/>
+                <constraint firstItem="G48-bs-yrY" firstAttribute="leading" secondItem="rGg-Bi-gzY" secondAttribute="leading" constant="16" id="mI2-B6-nMN"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="gNE-DZ-WhJ" secondAttribute="bottom" id="q55-dN-csT"/>
+                <constraint firstItem="CoN-Nh-xvT" firstAttribute="top" secondItem="ARx-hU-ldz" secondAttribute="bottom" constant="32" id="qjT-MX-9xl"/>
+                <constraint firstItem="IPV-a3-hgF" firstAttribute="trailing" secondItem="us1-he-0Z0" secondAttribute="trailing" constant="16" id="rKj-Qa-SXW"/>
+                <constraint firstItem="us1-he-0Z0" firstAttribute="top" secondItem="8lW-ea-d8g" secondAttribute="bottom" constant="8" id="rgI-Hi-h9Y"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="IPV-a3-hgF"/>
+            <connections>
+                <outlet property="logo" destination="gNE-DZ-WhJ" id="8Fj-E2-cLF"/>
+            </connections>
+            <point key="canvasLocation" x="-36.799999999999997" y="136.73163418290855"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="logo_subtitle_transparent" width="1200" height="480"/>
+    </resources>
+</document>

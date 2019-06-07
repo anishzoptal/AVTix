@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  avtixclient-ios
+
+  Created by eshan Cheema on 29/05/19.
+  Copyright © 2019 avtixclient-ios. All rights reserved.
+*/
+
+"don'thaveanaccount?signupnow." = "Heb je geen account? Meld je nu aan.";
+"forgotyourlogindetails?gethelpsigningin" = "Bent u uw inloggegevens vergeten? Hulp bij inloggen";
+"yourpasswordneedstobeatleast7characterslong" = "Uw wachtwoord moet minimaal 7 tekens lang zijn";
+"phonenumberregistrationregisteryourphonetoreceiveticketsviasmsmessages!" = "Telefoonnummer registratie registreer uw telefoon om tickets te ontvangen via sms-berichten!";
+"adisplaynameisrequired" = "Een weergavenaam is vereist";
+"loadingbackground......" = "Achtergrond laden ......";
+"loadingtickets......" = "Tickets laden ......";
+"loadinginvitations......" = "Uitnodigingen laden ...";
+"loadingpromotions......" = "Promoties laden ......";
+"loadingevents......" = "Evenementen laden ......";
+"loadingcategories......" = "Categorieën laden ...";
+"loading......" = "Bezig met laden ......";
+"passwordsdonotmatch" = "Wachtwoorden komen niet overeen";
+"anoldpasswordisrequired" = "Een oud wachtwoord is vereist";
+"lastnameisrequired" = "Achternaam is verplicht";
+"firstnameisrequired" = "Voornaam is verplicht";
+"selectcountry" = "SELECTEER LAND";
+"countryisrequired" = "Land is verplicht";
+"countrycodeisrequired" = "Landcode is verplicht";
+"phonenumberisrequired" = "Telefoonnummer is verplicht";
+"activationcodeisrequired" = "Activeringscode is vereist";
+"phonenumberregistrationenteractivationcode(ifnumbernotaddedautomatically)receivedviasmstonumberyouhaveenteredasphonenumber!" = "Telefoonnummer registratie voer activeringscode in (indien nummer niet automatisch toegevoegd) ontvangen via sms naar nummer dat u hebt ingevoerd als telefoonnummer!";
+"anemailisrequired" = "Een email is verplicht";
+"used_stamp" = "used_stamp_nl";
+"ok" = "oke";
+"f" = "f_nl";
+"g" = "g_nl";
+"c0" = "c0_nl";
+"c1" = "c1_nl";
+"c2" = "c2_nl";
+"c3" = "c3_nl";
+"c4" = "c4_nl";
+"c5" = "c5_nl";
+"c6" = "c6_nl";
+"c7" = "c7_nl";

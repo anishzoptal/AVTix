@@ -1,0 +1,6 @@
+framework module Pods_avtixclient_ios {
+  umbrella header "Pods-avtixclient-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

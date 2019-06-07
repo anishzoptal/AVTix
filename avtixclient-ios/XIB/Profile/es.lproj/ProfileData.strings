@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = " MOBILE INFORMATION"; ObjectID = "0lt-TB-pzU"; */
+"0lt-TB-pzU.text" = " Información móvil";
+
+/* Class = "UITextField"; placeholder = "Enter Phone Number"; ObjectID = "1BW-b2-hIq"; */
+"1BW-b2-hIq.placeholder" = "Ingresa número telefónico";
+
+/* Class = "UILabel"; text = "Display Name"; ObjectID = "2nS-il-TBQ"; */
+"2nS-il-TBQ.text" = "Nombre para mostrar";
+
+/* Class = "UILabel"; text = " PERSONAL INFORMATION"; ObjectID = "5KR-Mh-3ND"; */
+"5KR-Mh-3ND.text" = " INFORMACION PERSONAL";
+
+/* Class = "UIButton"; normalTitle = "Update Personal Info"; ObjectID = "9n4-fI-Lhn"; */
+"9n4-fI-Lhn.normalTitle" = "Actualizar información personal";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "AXU-vV-ErQ"; */
+"AXU-vV-ErQ.text" = "Número de teléfono";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "Cfe-qr-qh9"; */
+"Cfe-qr-qh9.text" = "Apellido";
+
+/* Class = "UITextField"; placeholder = "Enter First Name"; ObjectID = "Zf0-qA-enj"; */
+"Zf0-qA-enj.placeholder" = "Ingrese el primer nombre";
+
+/* Class = "UITextField"; placeholder = "Enter Display name"; ObjectID = "aGa-7M-q3h"; */
+"aGa-7M-q3h.placeholder" = "Ingrese el nombre de pantalla";
+
+/* Class = "UITextField"; placeholder = "Enter Email Address"; ObjectID = "dpH-qa-dnA"; */
+"dpH-qa-dnA.placeholder" = "Ingrese la dirección de correo electrónico";
+
+/* Class = "UILabel"; text = " ACCOUNT INFORMATION"; ObjectID = "gD1-5Y-rZM"; */
+"gD1-5Y-rZM.text" = " INFORMACIÓN DE LA CUENTA";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "gfe-ZI-Dzm"; */
+"gfe-ZI-Dzm.text" = "Nombre de pila";
+
+/* Class = "UIButton"; normalTitle = "Confirm Mobile Number"; ObjectID = "jQB-rL-BAq"; */
+"jQB-rL-BAq.normalTitle" = "Confirme el número de móvil";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "qNn-Dw-v2P"; */
+"qNn-Dw-v2P.text" = "Dirección de correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "Change Login Password"; ObjectID = "tPr-MD-dW8"; */
+"tPr-MD-dW8.normalTitle" = "Cambiar contraseña de inicio de sesión";
+
+/* Class = "UITextField"; placeholder = "Enter Last Name"; ObjectID = "tpx-Cr-HBP"; */
+"tpx-Cr-HBP.placeholder" = "Ingresa el apellido";

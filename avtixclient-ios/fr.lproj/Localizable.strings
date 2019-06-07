@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  avtixclient-ios
+
+  Created by eshan Cheema on 29/05/19.
+  Copyright © 2019 avtixclient-ios. All rights reserved.
+*/
+"don'thaveanaccount?signupnow." = "Vous n'avez pas de compte? S'inscrire maintenant.";
+"forgotyourlogindetails?gethelpsigningin" = "Vous avez oublié vos informations de connexion? Obtenez de l'aide pour vous connecter";
+"yourpasswordneedstobeatleast7characterslong" = "Votre mot de passe doit comporter au moins 7 caractères.";
+"phonenumberregistrationregisteryourphonetoreceiveticketsviasmsmessages!" = "Enregistrement du numéro de téléphone enregistrez votre téléphone pour recevoir des billets par SMS!";
+"adisplaynameisrequired" = "Un nom d'affichage est requis";
+"loadingbackground......" = "Chargement du fond ......";
+"loadingtickets......" = "Chargement des billets ......";
+"loadinginvitations......" = "Chargement des invitations ......";
+"loadingpromotions......" = "Chargement des promotions ......";
+"loadingevents......" = "Chargement des événements ......";
+"loadingcategories......" = "Chargement des catégories ......";
+"loading......" = "Chargement ......";
+"passwordsdonotmatch" = "Les mots de passe ne correspondent pas";
+"anoldpasswordisrequired" = "Un ancien mot de passe est requis";
+"lastnameisrequired" = "Nom est requis";
+"firstnameisrequired" = "Le prénom est requis";
+"selectcountry" = "CHOISISSEZ LE PAYS";
+"countryisrequired" = "Le pays est requis";
+"countrycodeisrequired" = "Le code pays est obligatoire";
+"phonenumberisrequired" = "Le numéro de téléphone est obligatoire";
+"activationcodeisrequired" = "Le code d'activation est requis";
+"phonenumberregistrationenteractivationcode(ifnumbernotaddedautomatically)receivedviasmstonumberyouhaveenteredasphonenumber!" = "Enregistrement du numéro de téléphone, entrez le code d'activation (si le numéro n'est pas ajouté automatiquement) reçu par SMS au numéro que vous avez entré comme numéro de téléphone!";
+"anemailisrequired" = "Un e-mail est requis";
+"ok" = "D'accord";
+"used_stamp" = "used_stamp_fr";
+"f" = "f_fr";
+"g" = "g_fr";
+"c0" = "c0_fr";
+"c1" = "c1_fr";
+"c2" = "c2_fr";
+"c3" = "c3_fr";
+"c4" = "c4_fr";
+"c5" = "c5_fr";
+"c6" = "c6_fr";
+"c7" = "c7_fr";

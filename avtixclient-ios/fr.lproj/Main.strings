@@ -1,0 +1,342 @@
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "0Ud-us-8ph"; */
+"0Ud-us-8ph.normalTitle" = "7";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "16p-j1-DtQ"; */
+"16p-j1-DtQ.text" = "Prénom";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "1Ss-jh-bQS"; */
+"1Ss-jh-bQS.placeholder" = "Entrez le numéro de téléphone";
+
+/* Class = "UILabel"; text = "Currently you don't have any pending invitations!"; ObjectID = "1ti-rc-yzE"; */
+"1ti-rc-yzE.text" = "Actuellement, vous n'avez pas d'invitations en attente!";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "2GR-Wq-qwX"; */
+"2GR-Wq-qwX.title" = "Article";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "3kM-97-GEH"; */
+"3kM-97-GEH.text" = "OU";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "3rE-ow-KGB"; */
+"3rE-ow-KGB.text" = "OU";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "3xo-YQ-4xT"; */
+"3xo-YQ-4xT.placeholder" = "Entrer le mot de passe";
+
+/* Class = "UITextField"; placeholder = "activation code"; ObjectID = "4gZ-wV-45T"; */
+"4gZ-wV-45T.placeholder" = "code d'activation";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "5CZ-Ik-bmu"; */
+"5CZ-Ik-bmu.normalTitle" = "PROCÉDER";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "5kD-DD-oCg"; */
+"5kD-DD-oCg.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "Thanks for registering with AVTix, Your better way in!!"; ObjectID = "5lj-KI-f9j"; */
+"5lj-KI-f9j.text" = "Merci de vous être inscrit à AVTix, votre meilleur moyen d'entrer!";
+
+/* Class = "UILabel"; text = "Peter B Party"; ObjectID = "7S8-4B-PcE"; */
+"7S8-4B-PcE.text" = "Fête de peter b";
+
+/* Class = "UILabel"; text = "By signing out you will be prompted for login and will prevent the application from working in Offline Mode and your tickets will not be available in Offline Mode."; ObjectID = "931-L7-Hqs"; */
+"931-L7-Hqs.text" = "Lorsque vous vous déconnectez, vous serez invité à vous connecter et à empêcher l'application de s'exécuter en mode hors connexion et vos tickets ne seront pas disponibles en mode hors connexion.";
+
+/* Class = "UIButton"; normalTitle = "Confirm Activation"; ObjectID = "9Tb-p2-ksw"; */
+"9Tb-p2-ksw.normalTitle" = "Confirmer l'activation";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "9gT-gN-odV"; */
+"9gT-gN-odV.text" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "TICKET IS USED"; ObjectID = "AdB-vQ-1Ob"; */
+"AdB-vQ-1Ob.text" = "Le ticket est utilisé";
+
+/* Class = "UIButton"; normalTitle = "VALIDATE"; ObjectID = "BAn-KN-JtF"; */
+"BAn-KN-JtF.normalTitle" = "VALIDER";
+
+/* Class = "UINavigationItem"; title = "Tickets"; ObjectID = "BcX-2S-N16"; */
+"BcX-2S-N16.title" = "Des billets";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "C48-Lp-Hgi"; */
+"C48-Lp-Hgi.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "24 Nov"; ObjectID = "CH3-Yf-H7f"; */
+"CH3-Yf-H7f.text" = "24 Nov";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ClJ-Mv-yCj"; */
+"ClJ-Mv-yCj.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "One-time Ticket validation"; ObjectID = "DJL-Qh-uEq"; */
+"DJL-Qh-uEq.text" = "Validation des billets uniques";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "EjG-3R-4cu"; */
+"EjG-3R-4cu.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "INVITATION"; ObjectID = "F31-Q6-MFH"; */
+"F31-Q6-MFH.text" = "INVITATION";
+
+/* Class = "UILabel"; text = "Super Cool Party"; ObjectID = "FS6-oW-903"; */
+"FS6-oW-903.text" = "Fête super cool";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "FZ0-Sr-g6a"; */
+"FZ0-Sr-g6a.normalTitle" = "S'identifier";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "GR7-KG-o3H"; */
+"GR7-KG-o3H.normalTitle" = "Termes et conditions";
+
+/* Class = "UITextField"; placeholder = "Select Country"; ObjectID = "Gbx-tf-y6L"; */
+"Gbx-tf-y6L.placeholder" = "Choisissez le pays";
+
+/* Class = "UILabel"; text = "Already a member?"; ObjectID = "GhN-QI-lQA"; */
+"GhN-QI-lQA.text" = "Déjà un utilisateur?";
+
+/* Class = "UINavigationItem"; title = "Invitations"; ObjectID = "Gzq-xa-vLI"; */
+"Gzq-xa-vLI.title" = "Invitations";
+
+/* Class = "UILabel"; text = "ATTENTION!"; ObjectID = "H5K-QC-w8q"; */
+"H5K-QC-w8q.text" = "ATTENTION!";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "H90-Kc-JW1"; */
+"H90-Kc-JW1.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "IAo-lc-cLS"; */
+"IAo-lc-cLS.text" = "OU";
+
+/* Class = "UILabel"; text = "No Available Tickets"; ObjectID = "Ilr-ue-RaN"; */
+"Ilr-ue-RaN.text" = "Aucun billet disponible";
+
+/* Class = "UILabel"; text = "15:52"; ObjectID = "KrH-me-n2T"; */
+"KrH-me-n2T.text" = "15:52";
+
+/* Class = "UILabel"; text = "Are you sure you want to sign out?"; ObjectID = "M94-M3-Cmi"; */
+"M94-M3-Cmi.text" = "Êtes-vous sûr de vouloir vous déconnecter?";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "MGR-D9-9c8"; */
+"MGR-D9-9c8.title" = "Profil";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "MJo-ca-G2l"; */
+"MJo-ca-G2l.normalTitle" = "NE PAS";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "Ma7-S3-s4Y"; */
+"Ma7-S3-s4Y.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "Peter B Party"; ObjectID = "Ng5-tb-YEq"; */
+"Ng5-tb-YEq.text" = "Fête de peter b";
+
+/* Class = "UILabel"; text = "December 16 2018"; ObjectID = "OIn-GV-ibo"; */
+"OIn-GV-ibo.text" = "December 16 2018";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "OMI-ko-O0i"; */
+"OMI-ko-O0i.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "03:00"; ObjectID = "Pd7-EK-Ttf"; */
+"Pd7-EK-Ttf.text" = "03:00";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "Pst-gq-z9i"; */
+"Pst-gq-z9i.text" = "Termes et conditions";
+
+/* Class = "UIButton"; normalTitle = "Activate Phone Number"; ObjectID = "Qeb-oh-9qL"; */
+"Qeb-oh-9qL.normalTitle" = "Activer le numéro de téléphone";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "RGU-mg-DZd"; */
+"RGU-mg-DZd.title" = "Article";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "Siv-l8-vgb"; */
+"Siv-l8-vgb.text" = "Chargement...";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "T9Q-gu-B2P"; */
+"T9Q-gu-B2P.normalTitle" = "Annuler";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "Tkc-Df-0UZ"; */
+"Tkc-Df-0UZ.placeholder" = "Entrer le mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Sign in now."; ObjectID = "U36-QR-0EB"; */
+"U36-QR-0EB.normalTitle" = "S'inscrire.";
+
+/* Class = "UITextField"; placeholder = "Enter Display Name"; ObjectID = "UXF-J8-djL"; */
+"UXF-J8-djL.placeholder" = "Entrez le nom à afficher";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "UrC-m1-JBJ"; */
+"UrC-m1-JBJ.normalTitle" = "6";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "VSH-XP-2qU"; */
+"VSH-XP-2qU.title" = "Article";
+
+/* Class = "UILabel"; text = "16 Aug 2018"; ObjectID = "W33-S9-rpK"; */
+"W33-S9-rpK.text" = "16 Aug 2018";
+
+/* Class = "UIButton"; normalTitle = "AVTix Help Center"; ObjectID = "WVX-x0-Yfq"; */
+"WVX-x0-Yfq.normalTitle" = "Centre d'aide AVTix";
+
+/* Class = "UILabel"; text = "Ibiza, Pacha Bar, POBOX 2023"; ObjectID = "WzO-YQ-BSv"; */
+"WzO-YQ-BSv.text" = "Ibiza, Pacha Bar, POBOX 2023";
+
+/* Class = "UIButton"; normalTitle = " VIEW OFFER"; ObjectID = "Wzp-un-srj"; */
+"Wzp-un-srj.normalTitle" = " VOIR DEAL";
+
+/* Class = "UILabel"; text = "By singing up, you agree to our"; ObjectID = "Xbc-Af-vys"; */
+"Xbc-Af-vys.text" = "Quand tu chantes, tu es d'accord avec notre";
+
+/* Class = "UILabel"; text = "Mark ticket as used?"; ObjectID = "YFW-N2-vhd"; */
+"YFW-N2-vhd.text" = "Marquer le billet comme utilisé?";
+
+/* Class = "UIButton"; normalTitle = "Sign in now."; ObjectID = "YZY-Ag-Rcs"; */
+"YZY-Ag-Rcs.normalTitle" = "S'inscrire.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yvf-a3-5lV"; */
+"Yvf-a3-5lV.text" = "Étiquette";
+
+/* Class = "UILabel"; text = "16:30"; ObjectID = "YxB-tG-O0g"; */
+"YxB-tG-O0g.text" = "16:30";
+
+/* Class = "UILabel"; text = "Currently there are no available events. Stay tuned and be the first to put your fingers on the upcoming events"; ObjectID = "Z2r-bu-zJF"; */
+"Z2r-bu-zJF.text" = "Il n'y a actuellement aucun événement disponible. Restez à l'écoute et soyez le premier à mettre les doigts dans les événements à venir.";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "ZNB-qa-n1Z"; */
+"ZNB-qa-n1Z.text" = "&";
+
+/* Class = "UILabel"; text = "lbiza, Peter House address"; ObjectID = "a3Z-lN-nOj"; */
+"a3Z-lN-nOj.text" = "Adresse de lbiza, peter house";
+
+/* Class = "UILabel"; text = "Please enter the ticket pin"; ObjectID = "aMr-jC-ofP"; */
+"aMr-jC-ofP.text" = "S'il vous plaît entrer la broche d'entrée";
+
+/* Class = "UILabel"; text = "Currently there are no available tickets. Stay tuned and be the first to put your fingers on the upcoming events"; ObjectID = "aNA-CE-8db"; */
+"aNA-CE-8db.text" = "Il n'y a actuellement aucun billet disponible. Restez à l'écoute et soyez le premier à mettre les doigts dans les événements à venir.";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "aQd-a2-4ip"; */
+"aQd-a2-4ip.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "Cancel phone activation"; ObjectID = "aS3-0Q-HID"; */
+"aS3-0Q-HID.normalTitle" = "Annuler l'activation du téléphone";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "aW4-FY-Rgr"; */
+"aW4-FY-Rgr.normalTitle" = "Continuer";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "au8-xd-rbK"; */
+"au8-xd-rbK.text" = "OU";
+
+/* Class = "UILabel"; text = "24 Nov"; ObjectID = "bPI-qr-cKt"; */
+"bPI-qr-cKt.text" = "24 Nov";
+
+/* Class = "UIButton"; normalTitle = "Start using AVTix"; ObjectID = "bTY-BE-ras"; */
+"bTY-BE-ras.normalTitle" = "Commencer à utiliser AVTix";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "bZ4-1Z-Sa8"; */
+"bZ4-1Z-Sa8.normalTitle" = "OUI";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "bcU-Bb-UeX"; */
+"bcU-Bb-UeX.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "EXIT"; ObjectID = "cGd-tg-XAw"; */
+"cGd-tg-XAw.normalTitle" = "SORTIE";
+
+/* Class = "UINavigationItem"; title = "AvtixHome"; ObjectID = "cLq-QO-3y4"; */
+"cLq-QO-3y4.title" = "AvtixHome";
+
+/* Class = "UILabel"; text = "TICKET TYPE"; ObjectID = "co1-eG-RqZ"; */
+"co1-eG-RqZ.text" = "TYPE D'ENTRÉE";
+
+/* Class = "UILabel"; text = "123456789"; ObjectID = "ehs-Oc-AT9"; */
+"ehs-Oc-AT9.text" = "123456789";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "emG-SQ-3A2"; */
+"emG-SQ-3A2.normalTitle" = "S'inscrire";
+
+/* Class = "UILabel"; text = "Recover Your Account"; ObjectID = "ema-Nv-e3N"; */
+"ema-Nv-e3N.text" = "Récupérez votre compte";
+
+/* Class = "UITextField"; placeholder = "Email, phone number or account number"; ObjectID = "f5T-Tt-mdy"; */
+"f5T-Tt-mdy.placeholder" = "Email, numéro de téléphone ou numéro de compte";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "fP3-Gh-EyQ"; */
+"fP3-Gh-EyQ.text" = "Avez-vous déjà un compte?";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "fPF-bq-Jbu"; */
+"fPF-bq-Jbu.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "You are invited to attend my 21th BParty. Hope you are coming"; ObjectID = "g9A-w6-khV"; */
+"g9A-w6-khV.text" = "Vous êtes invités à assister à mon 21ème BParty. J'espère que tu viendras";
+
+/* Class = "UIButton"; normalTitle = "Sign up for an AVTix account"; ObjectID = "gG0-qh-z2y"; */
+"gG0-qh-z2y.normalTitle" = "Inscrivez-vous pour obtenir un compte AVTix";
+
+/* Class = "UILabel"; text = "Enter email, phone number or account id that is linked to Your AVTix account."; ObjectID = "h5p-ds-3sE"; */
+"h5p-ds-3sE.text" = "Entrez l'adresse électronique, le numéro de téléphone ou l'identification du compte lié à votre compte AVTix.";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "i4r-SQ-Y7V"; */
+"i4r-SQ-Y7V.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "This screen is for authorized personnel only. If you are not authorised personnel for this event, please exit this screen invalidated this ticket and AVtix LTD does not re-issue tickets to unauthorised users."; ObjectID = "jOC-tq-QhP"; */
+"jOC-tq-QhP.text" = "Cet écran est réservé au personnel autorisé. Si vous n'êtes pas autorisé pour cet événement, quittez cet écran pour invalider ce ticket et AVtix LTD n'émettra pas de ticket pour des utilisateurs non autorisés.";
+
+/* Class = "UIButton"; normalTitle = "Just close the app"; ObjectID = "jnS-uM-uiP"; */
+"jnS-uM-uiP.normalTitle" = "Fermez seulement l'application";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "kcP-DT-bAh"; */
+"kcP-DT-bAh.normalTitle" = "Déconnecter";
+
+/* Class = "UIButton"; normalTitle = "Privacy"; ObjectID = "kcs-iX-u9C"; */
+"kcs-iX-u9C.normalTitle" = "Intimité";
+
+/* Class = "UIButton"; normalTitle = "Cancel phone activation."; ObjectID = "l7F-6c-MBf"; */
+"l7F-6c-MBf.normalTitle" = "Annuler l'activation du téléphone.";
+
+/* Class = "UITextField"; placeholder = "Re-type Password"; ObjectID = "lk7-jb-c8e"; */
+"lk7-jb-c8e.placeholder" = "Ecrivez le mot de passe à nouveau";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "mV7-Pu-VAn"; */
+"mV7-Pu-VAn.title" = "Article";
+
+/* Class = "UIButton"; normalTitle = "Terms"; ObjectID = "nzX-xg-0vU"; */
+"nzX-xg-0vU.normalTitle" = "Termes";
+
+/* Class = "UILabel"; text = "03:00"; ObjectID = "pfu-ue-ujB"; */
+"pfu-ue-ujB.text" = "03:00";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "ppE-Ot-rJa"; */
+"ppE-Ot-rJa.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Do you accept Invitation?"; ObjectID = "pz6-j1-Ejq"; */
+"pz6-j1-Ejq.text" = "Acceptez-vous l'invitation?";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "qgM-LV-nVT"; */
+"qgM-LV-nVT.title" = "Sur";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rGq-l0-N0G"; */
+"rGq-l0-N0G.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "For more help, visit the"; ObjectID = "rwh-8g-uIN"; */
+"rwh-8g-uIN.text" = "Pour plus d’aide, visitez le";
+
+/* Class = "UINavigationItem"; title = "Promotions"; ObjectID = "s15-mG-abu"; */
+"s15-mG-abu.title" = "Les promotions";
+
+/* Class = "UIButton"; normalTitle = "I REJECT"; ObjectID = "tTR-il-c41"; */
+"tTR-il-c41.normalTitle" = "REJET";
+
+/* Class = "UIButton"; normalTitle = "I ACCEPT"; ObjectID = "tY6-XZ-tF4"; */
+"tY6-XZ-tF4.normalTitle" = "JE SUIS D'ACCORD";
+
+/* Class = "UILabel"; text = "AVTix Signout"; ObjectID = "tt9-Sg-adQ"; */
+"tt9-Sg-adQ.text" = "AVTix Exit";
+
+/* Class = "UITextField"; placeholder = "Enter Email Address"; ObjectID = "uUV-x3-HSx"; */
+"uUV-x3-HSx.placeholder" = "Entrez l'adresse email";
+
+/* Class = "UITextField"; placeholder = "Enter Email Address"; ObjectID = "uZZ-Wp-203"; */
+"uZZ-Wp-203.placeholder" = "Entrez l'adresse email";
+
+/* Class = "UILabel"; text = "Get tickets anywhere, anytime directly to your SMART PHONE!                    Organize your tickets, giftcards and vouchers the way you see it!                         Get feeds, news and gifts from all of your popular ticketing sites!"; ObjectID = "xYK-uT-NIg"; */
+"xYK-uT-NIg.text" = "Achetez des billets n'importe où et à tout moment directement sur votre SMART PHONE! Organisez vos billets, cartes-cadeaux et bons d'achat comme vous le voyez! Recevez des flux, des nouvelles et des cadeaux de tous vos sites populaires de vente de billets!";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "xa3-CK-FaB"; */
+"xa3-CK-FaB.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "xdL-tp-9P8"; */
+"xdL-tp-9P8.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "lbiza, Peter House address"; ObjectID = "xgc-dg-ONP"; */
+"xgc-dg-ONP.text" = "Adresse de lbiza, peter house";
+
+/* Class = "UIButton"; normalTitle = "Decide Later"; ObjectID = "xnK-Dn-WjV"; */
+"xnK-Dn-WjV.normalTitle" = "Décider après";

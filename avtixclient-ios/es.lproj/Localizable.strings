@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  avtixclient-ios
+
+  Created by eshan Cheema on 29/05/19.
+  Copyright © 2019 avtixclient-ios. All rights reserved.
+*/
+"don'thaveanaccount?signupnow." = "Inscrivez-vous pour obtenir un compte AVTix";
+"forgotyourlogindetails?gethelpsigningin" = "¿Ha olvidado sus datos de acceso? Obtenga ayuda para iniciar sesión";
+"yourpasswordneedstobeatleast7characterslong" = "Su contraseña debe tener al menos 7 caracteres";
+"phonenumberregistrationregisteryourphonetoreceiveticketsviasmsmessages!" = "Registro de número de teléfono registre su teléfono para recibir boletos a través de mensajes SMS.";
+"adisplaynameisrequired" = "Entrez le nom à afficher";
+"loadingbackground......" = "Cargando fondo...";
+"loadingtickets......" = "Cargando entradas...";
+"loadinginvitations......" = "Cargando invitaciones...";
+"loadingpromotions......" = "Cargando Promociones...";
+"loadingevents......" = "Cargando Eventos...";
+"loadingcategories......" = "Cargando categorías...";
+"loading......" = "Chargement......";
+"passwordsdonotmatch" = "Las contraseñas no coinciden";
+"anoldpasswordisrequired" = "Se requiere una contraseña antigua";
+"lastnameisrequired" = "Se requiere apellido";
+"firstnameisrequired" = "Se requiere el primer nombre";
+"selectcountry" = "SELECCIONAR PAÍS";
+"countryisrequired" = "Se requiere pais";
+"countrycodeisrequired" = "Se requiere código de país";
+"phonenumberisrequired" = "Se requiere numero de telefono";
+"activationcodeisrequired" = "Se requiere código de activación";
+"phonenumberregistrationenteractivationcode(ifnumbernotaddedautomatically)receivedviasmstonumberyouhaveenteredasphonenumber!" = "Registro de número de teléfono ingrese el código de activación (si el número no se agrega automáticamente) recibido a través de sms al número que ingresó como número de teléfono!";
+"anemailisrequired" = "Se requiere un email";
+"ok" = "De acuerdo";
+"used_stamp" = "used_stamp_es";
+"f" = "f_es";
+"g" = "g_es";
+"c0" = "c0_es";
+"c1" = "c1_es";
+"c2" = "c2_es";
+"c3" = "c3_es";
+"c4" = "c4_es";
+"c5" = "c5_es";
+"c6" = "c6_es";
+"c7" = "c7_es";
+

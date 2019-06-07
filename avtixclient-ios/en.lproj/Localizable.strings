@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  avtixclient-ios
+
+  Created by eshan Cheema on 29/05/19.
+  Copyright © 2019 avtixclient-ios. All rights reserved.
+*/
+
+"don'thaveanaccount?signupnow." = "Don't have an account?Sign up now.";
+"forgotyourlogindetails?gethelpsigningin" = "Forgot your login details?Get help signing in";
+"yourpasswordneedstobeatleast7characterslong" = "Your password needs to be at least 7 characters long";
+"phonenumberregistrationregisteryourphonetoreceiveticketsviasmsmessages!" = "Phone number registration register your phone to receive tickets via sms messages!";
+"adisplaynameisrequired" = "A display name is required";
+"loadingbackground......" = "Loading Background......";
+"loadingtickets......" = "Loading Tickets......";
+"loadinginvitations......" = "Loading Invitations......";
+"loadingpromotions......" = "Loading Promotions......";
+"loadingevents......" = "Loading Events......";
+"loadingcategories......" = "Loading Categories......";
+"loading......" = "Loading ......";
+"passwordsdonotmatch" = "Passwords do not match";
+"anoldpasswordisrequired" = "An old Password is required";
+"lastnameisrequired" = "LastName is required";
+"firstnameisrequired" = "FirstName is required";
+"selectcountry" = "SELECT COUNTRY";
+"countryisrequired" = "Country is required";
+"countrycodeisrequired" = "Country Code is required";
+"phonenumberisrequired" = "Phone number is required";
+"activationcodeisrequired" = "Activation Code is required";
+"phonenumberregistrationenteractivationcode(ifnumbernotaddedautomatically)receivedviasmstonumberyouhaveenteredasphonenumber!" = "Phone number registration enter activation code (if number not added automatically) received via sms to number you have entered as phone number!";
+"anemailisrequired" = "An email is required";
+"ok" = "OK";
+"used_stamp" = "used_stamp";
+"f" = "f";
+"g" = "g";
+"c0" = "c0";
+"c1" = "c1";
+"c2" = "c2";
+"c3" = "c3";
+"c4" = "c4";
+"c5" = "c5";
+"c6" = "c6";
+"c7" = "c7";

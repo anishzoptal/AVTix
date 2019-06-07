@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "            Profile"; ObjectID = "BFJ-PL-M6t"; */
+"BFJ-PL-M6t.normalTitle" = "Profil";
+
+/* Class = "UILabel"; text = "Name Surname"; ObjectID = "BUm-5l-sNI"; */
+"BUm-5l-sNI.text" = "Nom Nom";
+
+/* Class = "UIButton"; normalTitle = "            Promotions"; ObjectID = "DRv-aO-Htz"; */
+"DRv-aO-Htz.normalTitle" = "Les promotions";
+
+/* Class = "UIButton"; normalTitle = "            Tickets"; ObjectID = "DeW-aM-HdJ"; */
+"DeW-aM-HdJ.normalTitle" = "Des billets";
+
+/* Class = "UILabel"; text = "name.surname@email.com"; ObjectID = "FU2-yF-Obj"; */
+"FU2-yF-Obj.text" = "name.surname@email.com";
+
+/* Class = "UIButton"; normalTitle = "            Invitations"; ObjectID = "QOz-qP-ahV"; */
+"QOz-qP-ahV.normalTitle" = "Invitations";
+
+/* Class = "UIButton"; normalTitle = "            About AVTix"; ObjectID = "em5-Wi-mge"; */
+"em5-Wi-mge.normalTitle" = "À propos d'AVTix";
+
+/* Class = "UIButton"; normalTitle = "            Home"; ObjectID = "mca-1F-n5i"; */
+"mca-1F-n5i.normalTitle" = "Accueil";
+
+/* Class = "UIButton"; normalTitle = "            Sign Out"; ObjectID = "q6o-eO-Ch7"; */
+"q6o-eO-Ch7.normalTitle" = "Déconnecter";

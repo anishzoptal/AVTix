@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = " MOBILE INFORMATION"; ObjectID = "0lt-TB-pzU"; */
+"0lt-TB-pzU.text" = " Mobile Informationen";
+
+/* Class = "UITextField"; placeholder = "Enter Phone Number"; ObjectID = "1BW-b2-hIq"; */
+"1BW-b2-hIq.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UILabel"; text = "Display Name"; ObjectID = "2nS-il-TBQ"; */
+"2nS-il-TBQ.text" = "Anzeigename";
+
+/* Class = "UILabel"; text = " PERSONAL INFORMATION"; ObjectID = "5KR-Mh-3ND"; */
+"5KR-Mh-3ND.text" = " PERSÖNLICHE ANGABEN";
+
+/* Class = "UIButton"; normalTitle = "Update Personal Info"; ObjectID = "9n4-fI-Lhn"; */
+"9n4-fI-Lhn.normalTitle" = "Aktualisieren Sie Ihre persönlichen Daten";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "AXU-vV-ErQ"; */
+"AXU-vV-ErQ.text" = "Telefonnummer";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "Cfe-qr-qh9"; */
+"Cfe-qr-qh9.text" = "Nachname";
+
+/* Class = "UITextField"; placeholder = "Enter First Name"; ObjectID = "Zf0-qA-enj"; */
+"Zf0-qA-enj.placeholder" = "Geben Sie den Vornamen ein";
+
+/* Class = "UITextField"; placeholder = "Enter Display name"; ObjectID = "aGa-7M-q3h"; */
+"aGa-7M-q3h.placeholder" = "Geben Sie den Bildschirmnamen ein";
+
+/* Class = "UITextField"; placeholder = "Enter Email Address"; ObjectID = "dpH-qa-dnA"; */
+"dpH-qa-dnA.placeholder" = "Geben Sie die E-Mail-Adresse ein";
+
+/* Class = "UILabel"; text = " ACCOUNT INFORMATION"; ObjectID = "gD1-5Y-rZM"; */
+"gD1-5Y-rZM.text" = " KONTOINFORMATIONEN";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "gfe-ZI-Dzm"; */
+"gfe-ZI-Dzm.text" = "Vorname";
+
+/* Class = "UIButton"; normalTitle = "Confirm Mobile Number"; ObjectID = "jQB-rL-BAq"; */
+"jQB-rL-BAq.normalTitle" = "Bestätigen Sie die Handynummer";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "qNn-Dw-v2P"; */
+"qNn-Dw-v2P.text" = "E-Mail-Addresse";
+
+/* Class = "UIButton"; normalTitle = "Change Login Password"; ObjectID = "tPr-MD-dW8"; */
+"tPr-MD-dW8.normalTitle" = "Anmeldekennwort ändern";
+
+/* Class = "UITextField"; placeholder = "Enter Last Name"; ObjectID = "tpx-Cr-HBP"; */
+"tpx-Cr-HBP.placeholder" = "Geben Sie den Nachnamen ein";

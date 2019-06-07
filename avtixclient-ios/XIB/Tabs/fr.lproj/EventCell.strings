@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "35d-VV-4Jk"; */
+"35d-VV-4Jk.text" = "La description";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "OBD-2h-z3L"; */
+"OBD-2h-z3L.text" = "Prénom";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "PBx-o9-E7o"; */
+"PBx-o9-E7o.text" = "Emplacement";
+
+/* Class = "UIButton"; normalTitle = "BUY TICKET"; ObjectID = "UpF-zD-9ys"; */
+"UpF-zD-9ys.normalTitle" = "ACHETER UN TICKET";
+
+/* Class = "UILabel"; text = "24 Nov 2018"; ObjectID = "XJb-3E-Uy3"; */
+"XJb-3E-Uy3.text" = "24 Nov 2018";
+
+/* Class = "UILabel"; text = "03:00 PM"; ObjectID = "lVi-5s-oxP"; */
+"lVi-5s-oxP.text" = "03:00 PM";
